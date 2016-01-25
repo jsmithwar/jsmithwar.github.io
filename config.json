@@ -1,0 +1,45 @@
+{
+	"Configuration": {
+		"DefaultContent": "Todo1"
+	},
+	"Content": [{
+		"name": "Todo1",
+		"version": "1.0.0",
+		"menu": "Todo 1 offline app",
+		"type": "web",
+		"scripts": {
+			"start": "http://jsmithwar.github.io/app1/index.html",
+			"test": ""
+		},
+		"keywords": [
+			"prototype",
+			"tanks"
+		],
+		"author": "Seattle Test",
+		"dependencies": {
+		},
+		"devDependencies": {
+		}
+	}, {
+		"name": "App2",
+		"version": "1.0.0",
+		"menu": "Test App 2",
+		"type": "web",
+		"scripts": {
+			"start": "http://jsmithwar.github.io/app2/index.html",
+			"test": ""
+		},
+		"keywords": [
+			"prototype",
+			"tanks"
+		],
+		"author": "Seattle Test",
+		"dependencies": {
+
+		},
+		"devDependencies": {
+
+		}
+	},
+]
+}
